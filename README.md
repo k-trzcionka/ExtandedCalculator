@@ -11,7 +11,7 @@ Kalkulator z następującymi funkacjami:</br>
 #ENG</br>
 Calculator with functions below:</br>
 -Addition</br>
--subtraction</br>
+-Subtraction</br>
 -Multiplication</br>
 -Division</br>
 -Factorial</br>
