@@ -1,19 +1,19 @@
 # ExtandedCalculator
-Kalkulator z następującymi funkacjami:
--Dodawanie
--Odejmowanie
--Mnożenie
--Dzielenie
--Obliczanie silni
--Sprawdzanie parzystości
--Podnoszenie do wskazanej potęgi
-
-#ENG
-Calculator with functions below:
--Addition
--subtraction
--Multiplication
--Division
--Factorial
--Even or odd
--Raise to a given power
+Kalkulator z następującymi funkacjami:</br>
+-Dodawanie</br>
+-Odejmowanie</br>
+-Mnożenie</br>
+-Dzielenie</br>
+-Obliczanie silni</br>
+-Sprawdzanie parzystości</br>
+-Podnoszenie do wskazanej potęgi</br>
+</br>
+#ENG</br>
+Calculator with functions below:</br>
+-Addition</br>
+-subtraction</br>
+-Multiplication</br>
+-Division</br>
+-Factorial</br>
+-Even or odd</br>
+-Raise to a given power</br>
